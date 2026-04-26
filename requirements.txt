@@ -1,0 +1,29 @@
+# ─── ML + Data ───────────────────────────────────────────────────────────────
+pandas>=1.5.3
+numpy>=1.23.5
+scikit-learn>=1.2.2
+nltk>=3.8.1
+
+# ─── Web / HTTP ───────────────────────────────────────────────────────────────
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+
+# ─── Web App ──────────────────────────────────────────────────────────────────
+flask>=2.3.2
+
+# ─── Model persistence ────────────────────────────────────────────────────────
+joblib>=1.3.2
+
+# ─── Visualization (optional — only needed if you run the notebook) ────────────
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# ─── Utilities ────────────────────────────────────────────────────────────────
+tqdm>=4.66.1
+
+# ─── Notes ────────────────────────────────────────────────────────────────────
+# 'logging' is part of Python's standard library — do NOT pip install it.
+# 'concurrent.futures' is also stdlib — no install needed.
+# 'logger' (the PyPI package) is NOT used here; the project uses the stdlib
+#   logging module via app_logger.py — do NOT install 'logger'.
