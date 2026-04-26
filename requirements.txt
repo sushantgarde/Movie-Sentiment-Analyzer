@@ -27,3 +27,5 @@ tqdm>=4.66.1
 # 'concurrent.futures' is also stdlib — no install needed.
 # 'logger' (the PyPI package) is NOT used here; the project uses the stdlib
 #   logging module via app_logger.py — do NOT install 'logger'.
+
+gunicorn
