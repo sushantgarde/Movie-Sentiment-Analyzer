@@ -100,44 +100,34 @@ No fluff. No paid subscriptions. Just raw crowd intelligence, distilled by AI.
 
 ## 📸 Screenshots
 
-> 📌 **How to add screenshots:**
-> 1. Create an `assets/` folder in your repo root
-> 2. Save your screenshots there (e.g. `assets/screenshot-home.png`)
-> 3. Replace the placeholder `src` paths below with your actual filenames
 
 ### 🏠 Home — Search Screen
 <!-- Replace with: ![Home Screen](assets/screenshot-home.png) -->
-```
-[ Your screenshot here — assets/screenshot-home.png ]
-```
+
+[<img width="1863" height="984" alt="CineScope 1" src="https://github.com/user-attachments/assets/42866911-f280-4df0-84f6-e3c119d9b658" />
+ ]
 
 ### 🎬 Results — Positive Verdict
 <!-- Replace with: ![Positive Verdict](assets/screenshot-positive.png) -->
-```
-[ Your screenshot here — assets/screenshot-positive.png ]
-```
+
+[<img width="1863" height="2086" alt="positive" src="https://github.com/user-attachments/assets/c6e72059-7182-47eb-84de-52aed0f68fe5" />
+]
+
+
 
 ### 😞 Results — Negative Verdict
 <!-- Replace with: ![Negative Verdict](assets/screenshot-negative.png) -->
-```
-[ Your screenshot here — assets/screenshot-negative.png ]
-```
+
+[ <img width="1863" height="1715" alt="negative" src="https://github.com/user-attachments/assets/7646b428-cc65-4159-9f98-f2c22b986fe0" />
+]
+
 
 ### 🎨 Theme Switcher
 <!-- Replace with: ![Themes](assets/screenshot-themes.png) -->
-```
-[ Your screenshot here — assets/screenshot-themes.png ]
-```
 
-### 📝 Review Cards
-<!-- Replace with: ![Review Cards](assets/screenshot-reviews.png) -->
-```
-[ Your screenshot here — assets/screenshot-reviews.png ]
-```
+[ <img width="1863" height="1137" alt="theme switchers" src="https://github.com/user-attachments/assets/b3ab4fdc-2094-41c2-8eeb-07b54fe358a1" />
+]
 
-> 💡 **Tip:** You can also drag-and-drop images directly into the GitHub README editor and GitHub will auto-host them and generate the Markdown for you.
-
----
 
 ## 📸 ASCII UI Preview
 
@@ -778,9 +768,10 @@ Each module has its own named logger (`tmdb_api`, `imdb_scraper`, `rt_scraper`, 
 
 | | Name | Role | Contributions |
 |---|---|---|---|
-| 👨‍💻 | **Sushant** | Project Lead | ML model training pipeline, Flask backend, prediction pipeline, `app.py`, `app_logger.py`, deployment config |
-| 🎨 | **Contributor 2** | Frontend Engineer | UI/UX design, 10-theme CSS system, vanilla JS interactions, loading animations, responsive layout |
-| 🔧 | **Contributor 3** | Data Engineer | Web scrapers (IMDb, RT, TMDB), `review_aggregator`, thread safety, deduplication logic |
+| 👨‍💻 | **Sushant Garde** | Project Lead & Backend | ML model training pipeline, Flask backend, prediction pipeline, `app.py`, `app_logger.py`, deployment config |
+| 🎨 | **Bijo Salu** | Frontend Engineer | UI/UX design, 10-theme CSS system, vanilla JS interactions, loading animations, responsive layout |
+| 🔧 | **Shree Shinde** | Data Engineer | Web scrapers (IMDb, RT, TMDB), `review_aggregator`, thread safety, deduplication logic |
+|     | **Mayur Anap**  | Documentation | Making the reports and project documentation|
 
 </div>
 
